@@ -40,3 +40,5 @@ HoloLensでBlender内でのモデリングをリアルタイムで表示して�
 | Mixed Reality OpenXR Plugin       |   1.4.1  |
 | Microsoft Spatializer       |   2.0.37  |
 | UniveramRP       |   12.1.7  |
+| MeshSync       |   0.13.1-preview  |
+| MeshSync DCC Plugin      |   0.13.1-preview  |
